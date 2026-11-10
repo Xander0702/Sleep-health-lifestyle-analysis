@@ -25,24 +25,29 @@ Business Questions
    
 Project Workflow
 1. Data Cleaning – Excel
+   
 Checked for duplicate participant IDs.
 Reviewed missing values.
 Checked data consistency.
 Verified numerical data types.
 Investigated unusual values.
-2. Exploratory Data Analysis – Excel
+3. Exploratory Data Analysis – Excel
+
 Calculated descriptive statistics.
 Analyzed sleep duration.
 Compared stress levels and sleep quality.
 Examined physical activity patterns.
 Created PivotTables and charts.
-3. Dashboard Development – Power BI
+4. Dashboard Development – Power BI
+
 Imported the cleaned Excel dataset.
 Prepared data using Power Query.
 Created DAX measures.
 Developed KPI cards and interactive visualizations.
 Added slicers for gender, age group, and occupation.
+
 Dashboard Features
+
 Total participant count.
 Average sleep duration.
 Average sleep quality.
@@ -51,6 +56,7 @@ Sleep disorder distribution.
 Sleep quality by age group.
 Sleep duration by physical activity level.
 Interactive filters.
+
 Key Findings
 To be completed after reviewing the actual dashboard results.
 
@@ -59,9 +65,7 @@ The dataset is relatively small.
 The data is synthetic and should not be interpreted as representative of the general population.
 Observed relationships do not establish causation.
 Findings should not be treated as clinical recommendations.
-Project Files
-Sleep_Health_Analysis.xlsx – Excel workbook containing the cleaning and exploratory analysis.
-Sleep_Health_Lifestyle_Analysis.pbix – Power BI dashboard.
-screenshots/ – Dashboard visualizations.
+
+
 Author
 Alexander Afolabi
